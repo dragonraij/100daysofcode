@@ -11,6 +11,11 @@ html, body {
 
 .jumbotron {
   height: 800px;
+  background: url(window-84.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .nav {
@@ -32,7 +37,7 @@ html, body {
 }
 
 .main h1 {
-  color: #333;
+  color: white;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 70px;
@@ -101,7 +106,14 @@ html, body {
   clear: both;
 }
 
+.header{
+    background-color: #333;
+    
+}
 
+.nav > li {
+    display: inline;
+}
 
 .footer {
   background-color: #333;

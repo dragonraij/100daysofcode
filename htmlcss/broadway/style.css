@@ -101,6 +101,12 @@ html, body {
   padding: 0 50px;
   margin-bottom: 40px;
 }
+.col > a {
+    color: #333;
+    border: 1px solid #333;
+    padding: 10px 20px;
+    text-decoration: none;
+}
 
 .clearfix {
   clear: both;

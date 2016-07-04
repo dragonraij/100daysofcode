@@ -2,7 +2,7 @@ html, body {
   margin: 0;
 }
 
-h1, h2, a {
+h1, a {
   font-family: 'Oswald', sans-serif;
 }
 
@@ -22,8 +22,12 @@ p {
   background-size:cover;
 }
 
-.main h1 {
-  font-size: 150px;
+ h2 {
+     font-family: 'Oswald', sans-serif;
+  font-size: 130px;
+  margin: 0;
+  padding-top:  50px;
+  color: white;
 }
 
 .main p {

@@ -81,6 +81,11 @@ p {
   padding:50px 0 0;
 }
 
+.jumbotron{
+    
+    background-image: url("buildings.jpg");
+}
+
 /* Footer */
 .footer {
   height: 600px;

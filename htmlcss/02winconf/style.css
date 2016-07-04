@@ -27,12 +27,13 @@ body {
 }
 
 .header {
-      background: url(1header.jpg) no-repeat center center fixed; 
+      background: url(header.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
 
 a {
     
@@ -40,7 +41,7 @@ a {
     color: white;
     border: 2px solid white;
     padding: 10px 20px;
-    font-style: bold;
+    margin:20px;
 }
 
 ul{
@@ -65,8 +66,8 @@ li{
 	color: white
 }
 .logo{
-    padding: 30px;
-    margin:30px;
+    
+    margin:15px;
     float: left;
     
 }
@@ -107,6 +108,10 @@ li{
 	text-align: center; 
 }
 
+.nav{
+    background-color: black;
+}
+
 
 /* Main */
 .main .container {
@@ -116,8 +121,18 @@ li{
 
 /* Jumbotron */
 .jumbotron {
-	height: 600px; 
+	 
 	text-align: right;
+	background-image: url("buildings.jpg");
+    height: 400px;
+    color: white;
+}
+
+.shadow{
+   
+    text-shadow: 2px 2px 8px #000;
+
+    
 }
 
 .jumbotron .container {

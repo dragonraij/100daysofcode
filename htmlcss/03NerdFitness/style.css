@@ -4,7 +4,7 @@ html, body {
 
 h1, h2, a {
   font-family: 'Oswald', sans-serif;
-  font-family: 'Oswald', sans-serif;
+ 
 }
 
 p {
@@ -67,8 +67,8 @@ p {
 .supporting h1,
 .supporting h2 {
   color: #ffa800;
-  font-size: 20px;
   margin-bottom: 10px;
+  text-transform: uppercase;
 }
 
 .clearfix {

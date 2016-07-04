@@ -18,6 +18,8 @@ p {
 /* Main */
 .main {
   height: 600px;
+  background-image: url("nerdfitness.jpg");
+  background-size:cover;
 }
 
 .main h1 {
@@ -81,10 +83,7 @@ p {
   padding:50px 0 0;
 }
 
-.jumbotron{
-    
-    background-image: url("buildings.jpg");
-}
+
 
 /* Footer */
 .footer {

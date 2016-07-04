@@ -114,14 +114,18 @@ p {
 /* Footer */
 .footer {
   height: 600px;
+  background-image: url("footer.jpg");
+  background-size: cover;
+  text-align: center;
+  
 }
 
 .footer h1,
 .footer h2 {
   color: #fff;
   font-size: 40px;
-  margin: 0 0 20px 0;
-  padding:50px 0 0;
+  margin: 0 0 0px 0;
+  padding:350px 0 0;
 }
 
 .footer p {
@@ -130,6 +134,14 @@ p {
   font-size: 18px;
 }
 
+.footer .btn {
+  color: #eee;
+  background-color: #1c1c1c;
+  font-size: 18px;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline-block;
+}
 
 @media (min-width:600px) {
   .main h1 {

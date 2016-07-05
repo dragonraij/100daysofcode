@@ -20,12 +20,22 @@ a {
 .main {
   height: 550px;
   padding-top: 55px;
+  background-image: url("feature.jpg");
+  background-size: cover;
 }
 
 .main p {
   font-size: 26px;
   font-weight: 200;  
   margin-bottom: 40px;
+}
+
+.main a{
+  text-decoration: none;
+  background-color: rgba(238,68,95,0.9);
+  color: white;
+  padding: 10x 10px
+  
 }
 
 .section .row {

@@ -20,7 +20,7 @@ a {
 .main {
   height: 550px;
   padding-top: 55px;
-  background-image: url("feature.jpg");
+  background-image: url("1feature.jpg");
   background-size: cover;
 }
 
@@ -34,7 +34,8 @@ a {
   text-decoration: none;
   background-color: rgba(238,68,95,0.9);
   color: white;
-  padding: 10x 10px
+  padding: 5px 25px;
+  border-radius: 3px 3px 3px 3px;
   
 }
 

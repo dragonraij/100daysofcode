@@ -1,0 +1,1 @@
+This project makes use of Bootstrap grid to make a gallery of images

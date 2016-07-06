@@ -20,11 +20,16 @@ html, body {
 .nav ul {
   margin: 0 0 30px;
   text-align: center;
+  padding: 10px;    
+    
 }
 
 .nav li {
   -webkit-transition:color 0.25s;
   transition:color 0.25s;
+  display: inline;
+  padding: 10px 10px;
+  color: white;
 }
 
 .nav li:hover {

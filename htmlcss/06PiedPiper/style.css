@@ -57,6 +57,10 @@ html, body {
   
 }
 
+ .banner .btn:hover{
+  
+  background-color: SeaGreen;
+}
 
 /* Media Queries */
 @media (max-width: 680px) {
@@ -75,4 +79,9 @@ html, body {
   .nav-pills li:first-child a  {
     margin-left: 0;
   }
+}
+
+.menu ul
+{
+    list-style-type: none;
 }

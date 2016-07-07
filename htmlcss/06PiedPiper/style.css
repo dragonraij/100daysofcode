@@ -50,6 +50,14 @@ html, body {
   color: #fff;
 }
 
+.banner a {
+  background-color: LightSeaGreen;
+  color: white;
+  padding: 10px 20px;
+  
+}
+
+
 /* Media Queries */
 @media (max-width: 680px) {
   .header h1 {

@@ -14,6 +14,7 @@ html, body {
 /* Header */
 .nav-pills li a {
   color: LightSeaGreen;
+  margin-top: 10px;
 }
 
 .nav-pills li.active a,
@@ -28,7 +29,13 @@ html, body {
 /* Jumbotron */
 .jumbotron {
   height: 500px;
+  background-image: url("pie.jpg");
+  background-size: cover;
+  padding-top: 150px;
+  text-align: right;
 }
+
+.jumbotron h1 {}
 
 
 /* Banner */

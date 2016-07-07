@@ -13,13 +13,13 @@ html, body {
 
 /* Header */
 .nav-pills li a {
-  color: #d8192f;
+  color: LightSeaGreen;
 }
 
 .nav-pills li.active a,
-.nav-pills li a:hover,
+.nav-pills li.active a:hover,
 .section .btn:hover {
-  background-color:rgba(216,25,47,1);
+  background-color:LightSeaGreen;
   box-shadow:0 2px 4px rgba(0,0,0,.5); 
   color:#fff;
 }

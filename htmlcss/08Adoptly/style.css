@@ -36,7 +36,9 @@ html, body {
     font-size: 20px;
     padding : 25px 10px;
 }
-
+.nav li:hover{
+    text-shadow: 0 0 20px rgba(81, 203, 238, 1);
+}
 .jumbotron{
     background: url(bestfriend.jpg) center;
     background-size: cover;
@@ -51,7 +53,7 @@ html, body {
 
 .supporting{
     text-align: center;
-    height: 300px;
+    padding-bottom: 150px;
 }
 
 .supporting a {
@@ -59,4 +61,18 @@ html, body {
     margin: 10px;
     border: 1px solid #30627E;
     text-decoration: none
+}
+
+.supporting a:hover{
+    box-shadow: 0 0 7px rgba(81, 203, 238, 1);
+}
+
+
+.footer{
+    background-color: #e52364;
+    padding: 50px 0;
+}
+
+.footer p {
+    color: white;
 }

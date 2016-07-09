@@ -22,10 +22,11 @@ html, body {
 .logo{
     background-color: #e52364;
     height: 90px;
-    border-radius: 0px 0px 15px 15px
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .nav{
-   padding: 20px;
+   padding: 15px;
    
 }
 
@@ -34,4 +35,16 @@ html, body {
     color: white;
     font-size: 20px;
     padding : 25px 10px;
+}
+
+.jumbotron{
+    background: url(bestfriend.jpg) center;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+}
+
+.jumbotron h1{
+    color: #e52364;
+    font-weight: bold;
 }

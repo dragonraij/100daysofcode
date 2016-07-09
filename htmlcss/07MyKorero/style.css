@@ -57,4 +57,15 @@ body{
 .supporting {
   margin-top: 40px;
   text-shadow: 0 2px 3px rgba(0,0,0,.4);
+  text-align: center
+}
+
+.supporting img{
+  height: 150px;
+}
+
+.supporting h2,
+.supporting p{
+  color: white;
+  
 }

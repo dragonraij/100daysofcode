@@ -5,8 +5,9 @@ html, body {
 }
 
 body{
-    background-image: url("milford.jpg");
+    background-image: url("1milford.jpg");
     background-size: cover;
+    background-color: gray;
 }
 .container {
   max-width:940px;
@@ -14,7 +15,29 @@ body{
 
 /* Header */
 .header {
-  padding: 10px 0;
+  padding: 15px 10px;
+  background-color: rgba(0,0,0,.5)
+  
+}
+.header li{
+    color: white;
+    margin-left: 10px;
+
+}
+
+
+
+.logo{
+    height: 40px;
+    display: inline;
+}
+
+.nav{
+  display: inline-block;
+}
+
+.nav li {
+  display: inline-block
 }
 
 /* Jumbotron */

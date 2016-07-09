@@ -5,7 +5,7 @@ html, body {
 }
 
 body{
-    background-image: url("1milford.jpg");
+    background-image: url("milford.jpg");
     background-size: cover;
     background-color: gray;
 }
@@ -44,8 +44,13 @@ body{
 .jumbotron {
   position: relative;
   top: 50px;
-  text-shadow: 0 2px 3px rgba(0,0,0,.4);
+  text-shadow: 2px -3px 5px rgba(0,0,0,.9);
   background-color: transparent;
+  text-align: center;
+}
+
+.jumbotron h1{
+  color: white;
 }
 
 /* Supporting */

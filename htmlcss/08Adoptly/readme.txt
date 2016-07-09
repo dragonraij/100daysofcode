@@ -1,13 +1,16 @@
-MyKorero
+Adopt.ly
 =========
 
-MyKorero is website for story telling.
-A place where people can create post and share content.
-Actually its rather like facebook, but with fewer cat pics.
+Adopt.ly requires a pet adoption website for their services.
+A place visitors cal learn about their services and 
+search for pets to adopt.
 
-This project makes use of bootstraps 12 column grid to build a page layout
+The focus of this project is to use the bootstrap grid system to
+create a front end of the website.
+
 
 Created by Raj Prasad July 2016
+As part of the 100 day coding challenge
 
          _           _                       _     
         /\ \        / /\                    /\ \   

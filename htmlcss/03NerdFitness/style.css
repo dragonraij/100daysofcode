@@ -50,6 +50,16 @@ p {
    
 }
 
+.main a:hover,
+.supporting a:hover,
+.footer a:hover{
+  color:#ffa800;
+}
+
+a{
+  text-decoration: none;
+}
+
 
 /* Supporting */
 .supporting {

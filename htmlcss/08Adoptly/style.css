@@ -48,3 +48,15 @@ html, body {
     color: #e52364;
     font-weight: bold;
 }
+
+.supporting{
+    text-align: center;
+    height: 300px;
+}
+
+.supporting a {
+    padding: 10px 60px;
+    margin: 10px;
+    border: 1px solid #30627E;
+    text-decoration: none
+}

@@ -9,6 +9,12 @@ html, body {
   margin: 0 auto;
 }
 
+.nav li a {
+    color: darkslategrey;
+}
+
+
+
 .jumbotron {
   background-color: transparent;
 }

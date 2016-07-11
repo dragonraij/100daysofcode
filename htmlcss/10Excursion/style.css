@@ -29,6 +29,8 @@ video#bgvid {
 
 .main {
   position: relative;
+  text-align: center;
+  color: white;
 }
 
 .main video {
@@ -37,7 +39,7 @@ video#bgvid {
 
 .main .content {
   position: absolute;
-  top: 200px;
+  top: 100px;
   width: 100%;
   left: 0;
   right: 0;

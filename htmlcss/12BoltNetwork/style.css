@@ -81,8 +81,17 @@ html, body {
 
 p{
     color: white;
+    font-size: medium;
 }
 
 h2{
     color: #0393FF;
+}
+
+.feature{
+    background-image: url("feature.jpg");
+    height: 400px;
+    background-size: cover;
+    padding-top: 200px;
+    text-align: center;
 }

@@ -9,6 +9,29 @@ html, body {
   max-width: 970px;
 }
 
+.jumbotron{
+    background-color: transparent;
+}
+
+.jumbotron img{
+    height: 40px;
+    
+}
+
+.jumbotron a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    margin-left: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.jumbotron .hightlight{
+    border-color: #0393FF;
+    color: #0393FF;
+}
+
 .supporting {
   background-image: url(s3.amazonaws.com/codecademy-content/projects/bolt-network/diagmonds_@2X.png);
   background-size: 141px 142px;

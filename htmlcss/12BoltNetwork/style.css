@@ -3,6 +3,7 @@ html, body {
   font-weight: 300; 
   margin: 0;
   padding: 0;
+  background-color: #223;
 }
 
 .container {
@@ -18,6 +19,11 @@ html, body {
     
 }
 
+.jumbotron h1{
+    color: white;
+    padding-bottom: 30px;
+}
+
 .jumbotron a {
     text-decoration: none;
     color: white;
@@ -27,9 +33,39 @@ html, body {
     border-radius: 5px;
 }
 
-.jumbotron .hightlight{
+.jumbotron .highlight,
+.main .highlight
+{
     border-color: #0393FF;
     color: #0393FF;
+
+}
+
+.jumbotron .highlight:hover,
+.main .highlight:hover{
+    background-color: #0393FF;
+    color: white;
+    
+}
+
+.main{
+    text-align: center;
+}
+
+.form-inline{
+        margin-top: 60px;
+}
+
+#search{
+    background-color: transparent;
+    border-style: none none solid none;
+    border-radius: 0;
+    width: 400px;
+
+}
+
+.form-control:focus{
+    color:  white;
 }
 
 .supporting {

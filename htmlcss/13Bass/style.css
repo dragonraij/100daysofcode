@@ -46,3 +46,12 @@ html, body {
     color: black;
     
 }
+
+.main{
+    padding: 100px 0 200px 0;
+}
+
+.main h1,
+.main h3{
+    color: white;
+}

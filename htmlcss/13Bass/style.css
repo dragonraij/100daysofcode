@@ -2,3 +2,47 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+.jumbotron{
+    background-color: black;
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+
+.header img {
+    height: 75px;
+}
+
+.header ul{
+    list-style: none;
+    
+}
+
+.header li{
+    display: inline;
+    font-size: medium;
+    padding-left: 20px;
+    
+}
+
+.header a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    -webkit-transition-duration: .25s; /* Safari */
+    transition-duration: .25s;
+}
+
+.header a:hover{
+    color: #ff003d;
+}
+
+.button{
+    padding: 10px 20px;
+    background-color: #ff003d;
+}
+
+.header .button:hover{
+    color: black;
+    
+}

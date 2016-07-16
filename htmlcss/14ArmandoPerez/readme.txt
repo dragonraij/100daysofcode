@@ -1,14 +1,15 @@
-Bass Music
+Armando Perez
 =========
 
-Bass is a music app where you can listen to your favourite beats. They require
-a home page to showcase their app and services
+Armando requires a website to display a page where to display a portfolio of 
+images. 
 
-This project starts of with basic html and css skelaton and graphic assets.
-Have to make use of bootstrap and modern webpage design to create the 
-landing page
+This project uses provided assets to create a landing page to display
+a portfolio of images. The project will require the creation of all styling and
+make use of existing bootstrap components to create a grid of images.
 
-Created by Raj Prasad 15 July 2016
+
+Created by Raj Prasad 16 July 2016
 As part of the 100 day coding challenge
 
          _           _                       _     

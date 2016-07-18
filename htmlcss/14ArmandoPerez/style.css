@@ -25,3 +25,19 @@ ul li {
 .main img{
   margin: 10px;
 }
+
+.footer{
+  color: #333;
+}
+
+.footer ul{
+ 
+  list-style: none
+}
+
+.footer ul li{
+ 
+display: inline;
+margin-left: 25px;
+}
+

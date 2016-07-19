@@ -48,3 +48,17 @@ html, body {
     background: #1a77ff;
     color: black;
 }
+
+
+.subheader{
+    font-size: medium;
+}
+
+.main{
+    background-image: url("bass-bg.jpg");
+    background-size: cover;
+    color: white;
+    padding-top: 50px;
+    height: 500px;
+}
+

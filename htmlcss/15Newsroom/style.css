@@ -33,3 +33,18 @@ html, body {
     border-bottom:1px solid #1a77ff;
     background-color: #1a77ff;
 }
+
+.menu{
+    background-color: #333;
+    color: white;
+}
+
+
+.menu ul li{
+    display: inline-block;
+}
+
+.menu ul.nav li:hover, .menu ul.nav .active a {
+    background: #1a77ff;
+    color: black;
+}

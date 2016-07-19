@@ -87,3 +87,28 @@ html, body {
 .supporting h4 span{
     border-bottom: 2px solid blue;
 }
+
+.supporting .ad{
+    padding: 40px 0px;
+}
+
+.footer{
+    
+    background-color: black;
+}
+
+.footer ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer ul li{
+    display: inline;
+    margin-right: 30px;
+    
+}
+
+.footer ul{
+    padding: 30px 0;
+    list-style: none;
+}

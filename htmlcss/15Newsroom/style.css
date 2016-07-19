@@ -62,3 +62,28 @@ html, body {
     height: 500px;
 }
 
+
+.supporting .sidebar{
+    background-color: #152230;
+    color: white;
+    padding: 10px;
+}
+
+.supporting{
+    background-color: #f2f2f2;
+    padding: 40px;
+}
+
+.supporting .col-md-8{
+    background-color: white;
+    padding: 10px;
+    
+}
+
+.supporting ul{
+    list-style: none;
+}
+
+.supporting h4 span{
+    border-bottom: 2px solid blue;
+}

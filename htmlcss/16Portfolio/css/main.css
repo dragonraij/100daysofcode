@@ -1,12 +1,33 @@
 html, 
 body {
     height: 100%;
+    
 }
 
 .jumbotron{
-    background-color: #445;
-    background-image: url("../img/rose.jpg");
+     background-color: #445;
+    background-image: url("../img/1rose.jpg");
     background-size: cover;
     height: 100%;
     margin: 0;
+}
+
+.jumbotron a, .jumbotron h1{
+   
+    color: white;
+    
+}
+
+.header li{
+    display:inline-block;
+}
+
+.header .active {
+    color: black;
+    background-color: azure;
+}
+
+.header li a:hover {
+    color: black;
+    background-color: white;
 }

@@ -8,7 +8,7 @@ body {
      background-color: #445;
     background-image: url("../img/1rose.jpg");
     background-size: cover;
-    height: 100%;
+    padding-bottom: 300px;
     margin: 0;
 }
 
@@ -30,4 +30,8 @@ body {
 .header li a:hover {
     color: black;
     background-color: white;
+}
+
+.main{
+    padding: 200px 0;
 }

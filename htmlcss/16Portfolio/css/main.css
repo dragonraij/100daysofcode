@@ -13,12 +13,12 @@ body {
     background-image: url("../img/rose.jpg");
     background-size: cover;
 }
-.jumbotron{
+.page{
     background-color: transparent;
     margin: 0;
 }
 
-.jumbotron a, .jumbotron h1{
+.page a, .page h1{
    
     color: white;
     

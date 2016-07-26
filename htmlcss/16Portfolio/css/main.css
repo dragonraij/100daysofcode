@@ -48,3 +48,12 @@ pre{
    background-color: rgba(255,255,255,0.5);
    border:none;
 }
+
+.project{
+    text-decoration: none;
+    transition-duration: .5s;
+}
+
+.project :hover{
+    color: azure;
+}

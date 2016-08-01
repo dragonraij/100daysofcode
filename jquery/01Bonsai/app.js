@@ -11,3 +11,7 @@ $( "#top-text" ).keyup(function() {
 $( "#bottom-text" ).keyup(function() {
   $( ".bottom-caption" ).text($("#bottom-text").val());
 });
+
+$( "#image-url" ).keyup(function() {
+  $(".thumbnail img").attr("src", $("#image-url").val())
+});

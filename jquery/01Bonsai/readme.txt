@@ -3,7 +3,7 @@ Bonsai
 
 Bonsai is a webpage which allows users to create original memes
 by selecting image and text for it.
-It makes use of jquery functions keyup
+It makes use of jquery functions keyup() val() attr() text()
 
 
 Created by Raj Prasad 1 August, 2016

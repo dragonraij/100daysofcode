@@ -1,12 +1,12 @@
-Bonsai
+Forecast
 =========
 
-Bonsai is a webpage which allows users to create original memes
-by selecting image and text for it.
-It makes use of jquery functions keyup() val() attr() text()
+Forecast is a weather forecasting application
+when a day is clicked it shows the detailed hourly weather
+for that day
 
 
-Created by Raj Prasad 1 August, 2016
+Created by Raj Prasad 4 August, 2016
 As part of the 100 day coding challenge
 
          _           _                       _     

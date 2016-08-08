@@ -1,12 +1,12 @@
-Armando Perez
+Forecast
 =========
 
-This project builds up from the Armando Perez html css project
-It makes use of jquery to add and remove classes so that
-the portfolio can be filtered
+Forecast is a weather forecasting application
+when a day is clicked it shows the detailed hourly weather
+for that day
 
 
-Created by Raj Prasad 8 August, 2016
+Created by Raj Prasad 4 August, 2016
 As part of the 100 day coding challenge
 
          _           _                       _     

@@ -4,7 +4,7 @@ var main = function() {
 
     $('.nav li').removeClass('active');
     $(this).addClass('active');
-
+    if(category = "nav-consumer")
     
     
     

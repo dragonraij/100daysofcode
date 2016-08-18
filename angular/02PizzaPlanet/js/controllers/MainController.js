@@ -36,5 +36,23 @@ app.controller('MainController', ['$scope', function($scope) {
       price: 8.95
     }
   ];
+  
+   $scope.extras = [
+    {
+      name: 'Breadsticks',
+      description: 'Served with marinara sauce',
+      price: 4.95
+    },
+    {
+      name: 'soup of the day',
+      description: 'Take a chance',
+      price: 4.95
+    },
+    {
+      name: 'Buffalo wings',
+      description: 'feel the power of wings..',
+      price: 6.95
+    }
+  ];
 
 }]);

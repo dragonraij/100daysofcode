@@ -37,7 +37,7 @@ app.controller('MainController', ['$scope', function($scope) {
     }
   ];
   
-   $scope.extras = [
+   $scope.sides = [
     {
       name: 'Breadsticks',
       description: 'Served with marinara sauce',

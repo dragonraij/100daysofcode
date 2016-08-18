@@ -25,6 +25,17 @@
             <p class="price">{{item.price |currency}} </p>
           </div>
         </div>
+        
+        <h2>Appetizers</h2>
+        <div class="appetizers row" ng-repeat=" item in mains">
+          <div class="item col-md-9">
+            <h3 class="name"> {{item.name}}</h3>
+            <p class="description">{{item.description}} </p>
+          </div>
+          <div class="price col-md-3">
+            <p class="price">{{item.price |currency}} </p>
+          </div>
+        </div>
 
       </div>
     </div>

@@ -1,11 +1,11 @@
-Pizza Planet - Angular
+Move - Angular
 =========
 
-Pizza Planet wants to create an AngularJS app for their restaurant's menu.
-The menu displays the restaurant's appetizers, mains, and extras.
+Move is an exercise app. It makes use of ng repeat to display an array of exercises
+Also it has two functions which allow the user to increment or decrement reps
 
 
-Created by Raj Prasad 16 August, 2016
+Created by Raj Prasad 22 August, 2016
 
 As part of the 100 day coding challenge
 
